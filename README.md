@@ -1,3 +1,3 @@
 # ipod_classic
 
-![SinemApp](https://raw.github.com/hakankoralturk/SinemApp/master/screenshot.png)
+![SinemApp](https://raw.github.com/hakankoralturk/ipod-classic/master/screenshot.png)
